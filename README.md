@@ -1,2 +1,0 @@
-# TESI INFORMATICA
-tesi1
