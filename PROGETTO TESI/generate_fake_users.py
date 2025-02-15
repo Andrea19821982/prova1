@@ -1,5 +1,5 @@
-    from faker import Faker
-    import pandas as pd
+from faker import Faker
+import pandas as pd
 
     # Inizializza Faker per generare dati casuali
     fake = Faker()
