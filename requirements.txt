@@ -1,0 +1,4 @@
+faker
+pandas
+sqlite3
+openpyxl
